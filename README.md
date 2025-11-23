@@ -9,6 +9,7 @@ This bootcamp is designed to take you through a comprehensive journey in data an
 ## Weekly Content
 
 - [Week 1](./week%201/) - Introduction to Databases and ERD
+- [Week 2](./Week%202/) - Joining Data in SQL
 
 ## How to Use This Repository
 
@@ -74,6 +75,9 @@ data-analytics-bootcamp/
 ├── week 1/
 │   ├── ERD_Assignment_Instructions.pdf
 │   └── Parch and Posey Db.png
+├── Week 2/
+│   ├── joining-data-in-sql-updated-0425.pdf
+│   └── SQL-Cheat-Sheet.pdf
 └── [future weeks will be added here]
 ```
 
