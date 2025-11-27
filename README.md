@@ -10,6 +10,7 @@ This bootcamp is designed to take you through a comprehensive journey in data an
 
 - [Week 1](./week%201/) - Introduction to Databases and ERD
 - [Week 2](./Week%202/) - Joining Data in SQL
+- [Week 3](./Week%203/) - SQL Window Functions
 
 ## How to Use This Repository
 
@@ -78,6 +79,9 @@ data-analytics-bootcamp/
 ├── Week 2/
 │   ├── joining-data-in-sql-updated-0425.pdf
 │   └── SQL-Cheat-Sheet.pdf
+├── Week 3/
+│   ├── SQL_Window_Functions_Assignment.pdf
+│   └── Window_Functions_Easy_Guide (1).pdf
 └── [future weeks will be added here]
 ```
 
